@@ -71,14 +71,14 @@
     "react-joyride": "^2.4.0",
     "react-markdown": "^4.3.1",
     "react-media-recorder": "^0.7.1",
-    "react-redux": "^5.1.1",
-    "react-router-dom": "^5.3.3",
+    "react-redux": "^9.0.0",
+    "react-router-dom": "^6.0.0",
     "react-scannable": "0.0.17",
     "react-share": "^2.3.1",
     "react-sizeme": "^2.5.2",
     "react-social-login-buttons": "^3.5.0",
     "react-transition-group": "4.4.2",
-    "redux": "^4.2.0",
+    "redux": "^5.0.0",
     "redux-beacon": "^2.0.3",
     "redux-logger": "4.0.0",
     "redux-persist": "^5.10.0",
@@ -87,7 +87,7 @@
     "source-map-explorer": "^2.1.2",
     "swiper": "^6.8.4",
     "uuid": "^3.4.0",
-    "yup": "^0.32.11"
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "@wojtekmaj/enzyme-adapter-react-17": "^0.6.0",
